@@ -8,7 +8,8 @@
 
 **FCN) Fully Convolutional Networks for Semantic Segmentation**   
 *Jonathan Long, Evan Shelhamer, Trevor Darrell*   
-[[paper]] [paper]: https://arxiv.org/abs/1411.4038   
+[[paper]] 
+[paper]: https://arxiv.org/abs/1411.4038   
 CVPR 2015   
 
 ## Graph Convolution  
