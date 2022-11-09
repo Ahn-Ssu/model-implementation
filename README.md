@@ -1,2 +1,3 @@
-# Graph_Neural_Networks
-Graph Convolutional Networks
+# Deep Learning Model Implementations
+
+
