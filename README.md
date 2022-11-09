@@ -18,6 +18,7 @@ CVPR 2015
 *Thomas N. Kipf, Max Welling*  
 [[paper]]   
 ICLR 2017   
+
 [paper]: https://arxiv.org/abs/1609.02907   
  
 **eGCN) Costless Performance Improvement in Machine Learning for Graph-Based Molecular Analysis**   
