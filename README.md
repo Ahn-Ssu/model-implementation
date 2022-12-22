@@ -20,6 +20,13 @@ MICCAI 2015
 
 [paper]: https://arxiv.org/abs/1505.04597
 
+**V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation**   
+*Fausto Milletari, Nassir Navab, Seyed-Ahmad Ahmadi*   
+[[paper]]   
+3DV 2016 
+
+[paper]: https://arxiv.org/abs/1606.04797
+
 ## Graph Convolution  
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
 *Thomas N. Kipf, Max Welling*  
