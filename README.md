@@ -8,7 +8,7 @@
 
 **FCN) Fully Convolutional Networks for Semantic Segmentation**   
 *Jonathan Long, Evan Shelhamer, Trevor Darrell*   
-[[paper]](https://arxiv.org/abs/1411.4038).    
+[[paper]](https://arxiv.org/abs/1411.4038)    
 CVPR 2015 
 
 
