@@ -18,7 +18,7 @@ CVPR 2015
 MICCAI 2015 
 
 
-**V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation**   
+**V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation** in progress   
 *Fausto Milletari, Nassir Navab, Seyed-Ahmad Ahmadi*   
 [[paper](https://arxiv.org/abs/1606.04797)]   
 3DV 2016 
