@@ -8,10 +8,9 @@
 
 **FCN) Fully Convolutional Networks for Semantic Segmentation**   
 *Jonathan Long, Evan Shelhamer, Trevor Darrell*   
-[[paper]]   
+[[paper]] https://arxiv.org/abs/1411.4038      
 CVPR 2015 
 
-[paper]: https://arxiv.org/abs/1411.4038   
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**   
 *Olaf Ronneberger, Philipp Fischer, Thomas Brox*   
