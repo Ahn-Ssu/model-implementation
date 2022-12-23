@@ -58,7 +58,7 @@ ICLR 2019
 ## Recurrent Neural Networks  
 **LSTM) Long short-term memory**   
 *S Hochreiter, J Schmidhuber*  
-[[paper](https://pubmed.ncbi.nlm.nih.gov/9377276/)], [[Posts],(https://pubmed.ncbi.nlm.nih.gov/9377276/)]    
+[[paper](https://pubmed.ncbi.nlm.nih.gov/9377276/)], [[Post](https://pubmed.ncbi.nlm.nih.gov/9377276/)]    
 Neural computation 1997   
 
 
@@ -78,3 +78,13 @@ NIPS 2014
 NIPS 2017   
 
 ## others
+### Skip Connection
+**Residual Connection) Deep Residual Learning for Image Recognition**   
+*Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*  
+[[paper](https://arxiv.org/abs/1512.03385)]    
+CVPR 2016   
+
+**Dense Connection) Densely Connected Convolutional Networks**   
+*Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger*  
+[[paper](https://arxiv.org/abs/1608.06993)]    
+CVPR 2017   
