@@ -1,6 +1,7 @@
 # Deep Learning Model Implementations by PyTorch
-* Convolution
-* Graph convolution
+* Convolution 
+* Graph Convolution 
+* Recurrent 
 
 
 
@@ -53,5 +54,27 @@ NIPS 2017
 *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka*  
 [[paper](https://arxiv.org/abs/1810.00826)]   
 ICLR 2019   
+
+## Recurrent Neural Networks  
+**LSTM) Long short-term memory**   
+*S Hochreiter, J Schmidhuber*  
+[[paper](https://pubmed.ncbi.nlm.nih.gov/9377276/)], [[Posts],(https://pubmed.ncbi.nlm.nih.gov/9377276/)]    
+Neural computation 1997   
+
+
+**Seq2Seq w/ LSTM) Sequence to Sequence Learning with Neural Networks**   
+*Ilya Sutskever, Oriol Vinyals, Quoc V. Le*  
+[[paper](https://arxiv.org/abs/1409.3215)]    
+NIPS 2014   
+
+**Seq2Seq w/ Attention) Neural Machine Translation by Jointly Learning to Align and Translate**   
+*Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio*  
+[[paper](https://arxiv.org/abs/1409.0473)]    
+NIPS 2014   
+
+**Transformer) Attention Is All You Need**   
+*Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*  
+[[paper](https://arxiv.org/abs/1706.03762)]    
+NIPS 2017   
 
 ## others
