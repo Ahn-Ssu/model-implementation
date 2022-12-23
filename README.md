@@ -58,7 +58,7 @@ ICLR 2019
 ## Recurrent Neural Networks  
 **LSTM) Long short-term memory**   
 *S Hochreiter, J Schmidhuber*  
-[[paper](https://pubmed.ncbi.nlm.nih.gov/9377276/)], [[Posts],(https://pubmed.ncbi.nlm.nih.gov/9377276/)]    
+[[paper](https://pubmed.ncbi.nlm.nih.gov/9377276/)], [[Posts](https://pubmed.ncbi.nlm.nih.gov/9377276/)]    
 Neural computation 1997   
 
 
