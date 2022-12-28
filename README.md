@@ -29,6 +29,11 @@ MICCAI 2015
 [[paper](https://arxiv.org/abs/1804.03999)]   
 MIDL 2018   
 
+**UNet++: A Nested U-Net Architecture for Medical Image Segmentation**    
+*Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang*   
+[[paper](https://arxiv.org/abs/1807.10165)]   
+DLMIA 2018   
+
 
 ## Graph Convolution  
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
