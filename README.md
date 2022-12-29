@@ -34,6 +34,11 @@ MIDL 2018
 [[paper](https://arxiv.org/abs/1807.10165)]   
 DLMIA 2018   
 
+**UNet 3+: A Full-Scale Connected UNet for Medical Image Segmentation**    
+*Huimin Huang, Lanfen Lin, Ruofeng Tong, Hongjie Hu, Qiaowei Zhang, Yutaro Iwamoto, Xianhua Han, Yen-Wei Chen, Jian Wu*   
+[[paper](https://arxiv.org/abs/2004.08790)]   
+ICASSP(IEEE) 2020   
+
 
 ## Graph Convolution  
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
