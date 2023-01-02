@@ -24,6 +24,11 @@ MICCAI 2015
 [[paper](https://arxiv.org/abs/1606.04797)]   
 3DV 2016   
 
+**DenseNet: Densely Connected Convolutional Networks**   
+*Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger*  
+[[paper](https://arxiv.org/abs/1608.06993)]    
+CVPR 2017
+
 **Attention U-Net: Learning Where to Look for the Pancreas**    
 *Ozan Oktay, et al.*   
 [[paper](https://arxiv.org/abs/1804.03999)]   
