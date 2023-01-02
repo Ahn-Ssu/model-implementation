@@ -24,6 +24,11 @@ MICCAI 2015
 [[paper](https://arxiv.org/abs/1606.04797)]   
 3DV 2016   
 
+**DenseNet: Densely Connected Convolutional Networks**   
+*Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger*  
+[[paper](https://arxiv.org/abs/1608.06993)]    
+CVPR 2017
+
 **Attention U-Net: Learning Where to Look for the Pancreas**    
 *Ozan Oktay, et al.*   
 [[paper](https://arxiv.org/abs/1804.03999)]   
@@ -33,6 +38,11 @@ MIDL 2018
 *Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang*   
 [[paper](https://arxiv.org/abs/1807.10165)]   
 DLMIA 2018   
+
+**UNet 3+: A Full-Scale Connected UNet for Medical Image Segmentation**    
+*Huimin Huang, Lanfen Lin, Ruofeng Tong, Hongjie Hu, Qiaowei Zhang, Yutaro Iwamoto, Xianhua Han, Yen-Wei Chen, Jian Wu*   
+[[paper](https://arxiv.org/abs/2004.08790)]   
+ICASSP(IEEE) 2020   
 
 
 ## Graph Convolution  
