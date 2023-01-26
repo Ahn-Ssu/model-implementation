@@ -10,8 +10,7 @@
 **FCN) Fully Convolutional Networks for Semantic Segmentation**   
 *Jonathan Long, Evan Shelhamer, Trevor Darrell*   
 [[paper](https://arxiv.org/abs/1411.4038)]    
-CVPR 2015 
-
+CVPR 2015  
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**   
 *Olaf Ronneberger, Philipp Fischer, Thomas Brox*   
@@ -23,6 +22,11 @@ MICCAI 2015
 *Fausto Milletari, Nassir Navab, Seyed-Ahmad Ahmadi*   
 [[paper](https://arxiv.org/abs/1606.04797)]   
 3DV 2016   
+
+**CAMs) Learning Deep Features for Discriminative Localization**   
+*Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba*   
+[[paper](https://arxiv.org/abs/1512.04150)]    
+CVPR 2016  
 
 **DenseNet: Densely Connected Convolutional Networks**   
 *Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger*  
