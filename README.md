@@ -48,6 +48,11 @@ DLMIA 2018
 [[paper](https://arxiv.org/abs/2004.08790)]   
 ICASSP(IEEE) 2020   
 
+**EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**    
+*Mingxing Tan, Quoc V. Le*   
+[[paper](https://arxiv.org/abs/1905.11946)]   
+ICML 2019   
+
 
 ## Graph Convolution  
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
@@ -112,3 +117,9 @@ CVPR 2016
 *Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger*  
 [[paper](https://arxiv.org/abs/1608.06993)]    
 CVPR 2017   
+
+### Loss
+**Focal Loss for Dense Object Detection**   
+*Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár*  
+[[paper](https://arxiv.org/abs/1708.02002)]    
+ICCV 2017   
