@@ -117,3 +117,9 @@ CVPR 2016
 *Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger*  
 [[paper](https://arxiv.org/abs/1608.06993)]    
 CVPR 2017   
+
+### Loss
+**Focal Loss for Dense Object Detection**   
+*Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár*  
+[[paper](https://arxiv.org/abs/1708.02002)]    
+ICCV 2017   
