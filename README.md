@@ -48,6 +48,11 @@ DLMIA 2018
 [[paper](https://arxiv.org/abs/2004.08790)]   
 ICASSP(IEEE) 2020   
 
+**EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**    
+*Mingxing Tan, Quoc V. Le*   
+[[paper](https://arxiv.org/abs/1905.11946)]   
+ICML 2019   
+
 
 ## Graph Convolution  
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
