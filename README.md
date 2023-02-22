@@ -48,6 +48,16 @@ DLMIA 2018
 [[paper](https://arxiv.org/abs/2004.08790)]   
 ICASSP(IEEE) 2020   
 
+**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**    
+*Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam*   
+[[paper](https://arxiv.org/abs/1704.04861)]   
+CVPR 2017   
+
+**MobileNetV2: Inverted Residuals and Linear Bottlenecks**    
+*Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen*   
+[[paper](https://arxiv.org/abs/1801.04381)]   
+CVPR 2018   
+
 **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**    
 *Mingxing Tan, Quoc V. Le*   
 [[paper](https://arxiv.org/abs/1905.11946)]   
