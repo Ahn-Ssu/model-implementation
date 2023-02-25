@@ -55,6 +55,11 @@ CVPR 2017
 
 **MobileNetV2: Inverted Residuals and Linear Bottlenecks**    
 *Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen*   
+[[paper](https://arxiv.org/abs/1709.01507)]   
+CVPR 2018   
+
+**Squeeze-and-Excitation Networks**    
+*Jie Hu, Li Shen, Samuel Albanie, Gang Sun, Enhua Wu*   
 [[paper](https://arxiv.org/abs/1801.04381)]   
 CVPR 2018   
 
