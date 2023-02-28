@@ -68,6 +68,11 @@ CVPR 2018
 [[paper](https://arxiv.org/abs/1905.11946)]   
 ICML 2019   
 
+**EfficientNetV2: Smaller Models and Faster Training**    
+*Mingxing Tan, Quoc V. Le*   
+[[paper](https://arxiv.org/abs/2104.00298)]   
+ICML 2021   
+
 
 ## Graph Convolution  
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
