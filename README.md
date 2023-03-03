@@ -5,8 +5,8 @@
 
 
 
-## Convolution
-### Encoder
+# Convolution
+## Encoder
 **CAMs) Learning Deep Features for Discriminative Localization**   
 *Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba*   
 [[paper](https://arxiv.org/abs/1512.04150)]    
@@ -43,7 +43,7 @@ ICML 2019
 ICML 2021   
 
 
-### Encoder-Decoder
+## Encoder-Decoder
 **FCN) Fully Convolutional Networks for Semantic Segmentation**   
 *Jonathan Long, Evan Shelhamer, Trevor Darrell*   
 [[paper](https://arxiv.org/abs/1411.4038)]    
@@ -80,7 +80,7 @@ ICASSP(IEEE) 2020
 ISBI 2020   
 
 
-## Graph Convolution  
+# Graph Convolution  
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
 *Thomas N. Kipf, Max Welling*  
 [[paper](https://arxiv.org/abs/1609.02907)]   
@@ -110,7 +110,7 @@ NIPS 2017
 [[paper](https://arxiv.org/abs/1810.00826)]   
 ICLR 2019   
 
-## Recurrent Neural Networks  
+# Recurrent Neural Networks  
 **LSTM) Long short-term memory**   
 *S Hochreiter, J Schmidhuber*  
 [[paper](https://pubmed.ncbi.nlm.nih.gov/9377276/)], [[Post](https://pubmed.ncbi.nlm.nih.gov/9377276/)]    
