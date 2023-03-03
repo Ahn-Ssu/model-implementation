@@ -1,7 +1,7 @@
 # Deep Learning Model Implementations by PyTorch
 * Convolution-based networks
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Encoder architecture
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Encoder-Decoder architecture
+<space><space>* Encoder architecture
+<space><space>* Encoder-Decoder architecture
 * Graph Convolution-based networks
 * Recurrent Neural Networks
 
