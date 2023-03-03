@@ -5,7 +5,7 @@
 
 
 
-# Convolution
+# Convolution-based
 ## Encoder
 **CAMs) Learning Deep Features for Discriminative Localization**   
 *Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba*   
@@ -80,7 +80,7 @@ ICASSP(IEEE) 2020
 ISBI 2020   
 
 
-# Graph Convolution  
+# Graph Convolution-based
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
 *Thomas N. Kipf, Max Welling*  
 [[paper](https://arxiv.org/abs/1609.02907)]   
