@@ -6,23 +6,7 @@
 
 
 ## Convolution
-
-**FCN) Fully Convolutional Networks for Semantic Segmentation**   
-*Jonathan Long, Evan Shelhamer, Trevor Darrell*   
-[[paper](https://arxiv.org/abs/1411.4038)]    
-CVPR 2015  
-
-**U-Net: Convolutional Networks for Biomedical Image Segmentation**   
-*Olaf Ronneberger, Philipp Fischer, Thomas Brox*   
-[[paper](https://arxiv.org/abs/1505.04597)]    
-MICCAI 2015 
-
-
-**V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation**    
-*Fausto Milletari, Nassir Navab, Seyed-Ahmad Ahmadi*   
-[[paper](https://arxiv.org/abs/1606.04797)]   
-3DV 2016   
-
+### Encoder
 **CAMs) Learning Deep Features for Discriminative Localization**   
 *Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba*   
 [[paper](https://arxiv.org/abs/1512.04150)]    
@@ -31,22 +15,7 @@ CVPR 2016
 **DenseNet: Densely Connected Convolutional Networks**   
 *Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger*  
 [[paper](https://arxiv.org/abs/1608.06993)]    
-CVPR 2017
-
-**Attention U-Net: Learning Where to Look for the Pancreas**    
-*Ozan Oktay, et al.*   
-[[paper](https://arxiv.org/abs/1804.03999)]   
-MIDL 2018   
-
-**UNet++: A Nested U-Net Architecture for Medical Image Segmentation**    
-*Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang*   
-[[paper](https://arxiv.org/abs/1807.10165)]   
-DLMIA 2018   
-
-**UNet 3+: A Full-Scale Connected UNet for Medical Image Segmentation**    
-*Huimin Huang, Lanfen Lin, Ruofeng Tong, Hongjie Hu, Qiaowei Zhang, Yutaro Iwamoto, Xianhua Han, Yen-Wei Chen, Jian Wu*   
-[[paper](https://arxiv.org/abs/2004.08790)]   
-ICASSP(IEEE) 2020   
+CVPR 2017   
 
 **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**    
 *Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam*   
@@ -72,6 +41,43 @@ ICML 2019
 *Mingxing Tan, Quoc V. Le*   
 [[paper](https://arxiv.org/abs/2104.00298)]   
 ICML 2021   
+
+
+### Encoder-Decoder
+**FCN) Fully Convolutional Networks for Semantic Segmentation**   
+*Jonathan Long, Evan Shelhamer, Trevor Darrell*   
+[[paper](https://arxiv.org/abs/1411.4038)]    
+CVPR 2015  
+
+**U-Net: Convolutional Networks for Biomedical Image Segmentation**   
+*Olaf Ronneberger, Philipp Fischer, Thomas Brox*   
+[[paper](https://arxiv.org/abs/1505.04597)]    
+MICCAI 2015 
+
+**V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation**    
+*Fausto Milletari, Nassir Navab, Seyed-Ahmad Ahmadi*   
+[[paper](https://arxiv.org/abs/1606.04797)]   
+3DV 2016   
+
+**Attention U-Net: Learning Where to Look for the Pancreas**    
+*Ozan Oktay, et al.*   
+[[paper](https://arxiv.org/abs/1804.03999)]   
+MIDL 2018   
+
+**UNet++: A Nested U-Net Architecture for Medical Image Segmentation**    
+*Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang*   
+[[paper](https://arxiv.org/abs/1807.10165)]   
+DLMIA 2018   
+
+**UNet 3+: A Full-Scale Connected UNet for Medical Image Segmentation**    
+*Huimin Huang, Lanfen Lin, Ruofeng Tong, Hongjie Hu, Qiaowei Zhang, Yutaro Iwamoto, Xianhua Han, Yen-Wei Chen, Jian Wu*   
+[[paper](https://arxiv.org/abs/2004.08790)]   
+ICASSP(IEEE) 2020   
+
+**DeepSEED: 3D Squeeze-and-Excitation Encoder-Decoder Convolutional Neural Networks for Pulmonary Nodule Detection**    
+*Yuemeng Li, Yong Fan*   
+[[paper](https://arxiv.org/abs/1904.03501)]   
+ISBI 2020   
 
 
 ## Graph Convolution  
