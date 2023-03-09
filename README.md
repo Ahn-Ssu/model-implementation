@@ -87,6 +87,11 @@ ICASSP(IEEE) 2020
 [[paper](https://arxiv.org/abs/1904.03501)]   
 ISBI 2020   
 
+**DynUNet: Optimized U-Net for Brain Tumor Segmentation**    
+*Michał Futrega, Alexandre Milesi, Michal Marcinkiewicz, Pablo Ribalta*   
+[[paper](https://arxiv.org/abs/2110.03352)]   
+MICCAI-BraTS 2021   
+
 
 # Graph Convolution-based
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
