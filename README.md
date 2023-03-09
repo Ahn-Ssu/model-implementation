@@ -66,6 +66,12 @@ MICCAI 2015
 [[paper](https://arxiv.org/abs/1804.03999)]   
 MIDL 2018   
 
+**SegResNet_VAE: 3D MRI brain tumor segmentation using autoencoder regularization**    
+*Andriy Myronenko*   
+[[paper](https://arxiv.org/abs/1810.11654]   
+MICCAI 2018   
+
+
 **UNet++: A Nested U-Net Architecture for Medical Image Segmentation**    
 *Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang*   
 [[paper](https://arxiv.org/abs/1807.10165)]   
