@@ -4,6 +4,7 @@
     * Encoder-Decoder architecture
 * Graph Convolution-based networks
 * Recurrent Neural Networks
+* Transformer-based networks
 
 
 
@@ -144,6 +145,17 @@ NIPS 2014
 *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*  
 [[paper](https://arxiv.org/abs/1706.03762)]    
 NIPS 2017   
+
+# Transformer-based
+**Transformer) Attention Is All You Need**   
+*Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*  
+[[paper](https://arxiv.org/abs/1706.03762)]    
+NIPS 2017   
+
+**An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**   
+*Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby ·*  
+[[paper](https://arxiv.org/abs/2010.11929)]    
+ICLR 2021    
 
 ## others
 ### Skip Connection
