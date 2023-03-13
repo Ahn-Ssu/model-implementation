@@ -93,6 +93,11 @@ ISBI 2020
 [[paper](https://arxiv.org/abs/2110.03352)]   
 MICCAI-BraTS 2021   
 
+**UNETR: Transformers for 3D Medical Image Segmentation**    
+*Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*   
+[[paper](https://arxiv.org/abs/2103.10504)]   
+WACV 2022     
+
 
 # Graph Convolution-based
 **GCN) Semi-Supervised Classification with Graph Convolutional Networks**   
@@ -156,6 +161,11 @@ NIPS 2017
 *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby ·*  
 [[paper](https://arxiv.org/abs/2010.11929)]    
 ICLR 2021    
+
+**UNETR: Transformers for 3D Medical Image Segmentation**    
+*Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*   
+[[paper](https://arxiv.org/abs/2103.10504)]   
+WACV 2022     
 
 ## others
 ### Skip Connection
